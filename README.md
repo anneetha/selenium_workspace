@@ -1,2 +1,2 @@
-# slenium_workshop
+# selenium_workshop
 selenium project development and learning
